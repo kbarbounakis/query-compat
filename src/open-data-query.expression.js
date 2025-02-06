@@ -1,5 +1,5 @@
 import { QueryExpression } from '@themost/query';
-import { ClosureParser } from '@themost/query-compat/closures';
+import { ClosureParser } from '@themost/query-compat';
 import { instanceOf } from './instance-of';
 import { SyncSeriesEventEmitter } from '@themost/events';
 
